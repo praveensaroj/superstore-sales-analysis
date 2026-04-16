@@ -17,6 +17,7 @@ Analyze retail sales data to identify key factors affecting profitability and pr
 📂 Dataset:
 
 Superstore sales dataset containing information on sales, profit, discount, category, subcategories and region.
+Raw dataset included as superstore_raw_data.csv
 
 📈 Key Insights:
 
