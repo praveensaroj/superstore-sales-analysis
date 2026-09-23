@@ -39,4 +39,4 @@ Raw dataset included as superstore_raw_data.csv
 
 📊 Dashboard Preview:
 
-<img width="840" height="923" alt="superstore sales dashboard" src="https://github.com/user-attachments/assets/164767e4-9c3f-4be6-bcf5-0beface13a2e" />
+<img width="840" height="923" alt="superstore sales dashboard" src="https://github.com/praveensaroj/superstore-sales-analysis/blob/main/superstore%20sales%20dashboard.png" />
